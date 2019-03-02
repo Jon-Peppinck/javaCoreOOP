@@ -1,4 +1,3 @@
-===
 Four Core Object Oriented Programming Concepts:
 ===
 
